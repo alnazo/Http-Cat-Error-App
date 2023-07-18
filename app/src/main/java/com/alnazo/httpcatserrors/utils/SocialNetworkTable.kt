@@ -20,7 +20,7 @@ import androidx.compose.ui.unit.dp
 fun SocialNetworktable(darkmode: Boolean? = false, image: Painter, imageDescriptor: String,image_dark: Painter? = null, imageDescriptor_dark: String? = null, url: String){
     Row(
         modifier = Modifier
-            .fillMaxWidth(0.8f)
+            .fillMaxWidth(0.95f)
             .border(width = 1.dp, color = Color.Black)
             .padding(15.dp),
         horizontalArrangement = Arrangement.Center,
