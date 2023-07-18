@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Http Cats Errors</string>
+
+    <string name="welcome">Welcome!</string>
+    <string name="cat_error">Cat Error</string>
+    <string name="about">About App</string>
+
+    <string name="search">Only Code Error</string>
+    <string name="back">Back</string>
+
+    <string name="about_app_1">This application is created to learn about the Android environment in the Kotlin language and Jetpack Composer.</string>
+    <string name="about_app_2">It is based on obtaining images from the website:</string>
+    <string name="about_app_3">And be able to list them in an app that may be at hand.</string>
+
+    <string name="about_me">About me:</string>
+    <string name="me">My name is <b>Antonio</b></string>
+    <string name="about_me_1">But on the internet I am known as <b>Alnazo</b></string>
+    <string name="project">You can find this project here:</string>
+
+    <string name="RRSS">My social networks</string>
+
+</resources>

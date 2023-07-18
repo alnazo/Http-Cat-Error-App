@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Errores Http Gatunos</string>
+
+    <string name="welcome">Bienvenid@!</string>
+    <string name="about">Sobre la App</string>
+    <string name="cat_error">Error gatuno</string>
+
+    <string name="search">Solo codigo de error</string>
+    <string name="back">Volver</string>
+
+    <string name="about_app_1">Esta aplicacion esta creada para aprender sobre el entorno Android en el lenguaje Kotlin y Jetpack Composer.</string>
+    <string name="about_app_2">Se basa en la obtencion de imagenes del sitio web:</string>
+    <string name="about_app_3">Y poder listarlas en una app que pueda estar a mano.</string>
+
+    <string name="about_me">Sobre mi:</string>
+    <string name="me">Mi nombre es <b>Antonio</b></string>
+    <string name="about_me_1">Pero en internet se me conoce como <b>Alnazo</b></string>
+    <string name="project">Este proyecto lo podeis encontrar aqui:</string>
+
+    <string name="RRSS">Mis redes sociales</string>
+</resources>
